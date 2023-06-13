@@ -15,5 +15,6 @@ Real-Time Data: Many websites constantly update their content, providing real-ti
 
 Libraries Used:
 
-1. Beautiful Soup is a Python library used for parsing HTML and XML documents. It allows you to extract data from web pages by navigating the document's structure.
-In the context of machine learning (ML), Beautiful Soup can be used for data collection, preprocessing, feature extraction, and labeling/annotation tasks. It helps in scraping web data, cleaning and transforming it, extracting relevant features, and facilitating the manual labeling of data for ML models.
+1. Beautiful Soup is a Python library used for parsing HTML and XML documents. It allows you to extract data from web pages by navigating the document's structure. In the context of machine learning (ML), Beautiful Soup can be used for data collection, preprocessing, feature extraction, and labeling/annotation tasks. It helps in scraping web data, cleaning and transforming it, extracting relevant features, and facilitating the manual labeling of data for ML models.
+
+2. Selenium: Selenium is a widely used tool for web scraping, which involves extracting data from websites. It allows for web browser automation, enabling you to interact with web pages, locate specific elements, extract data, navigate through multiple pages, and process the scraped data as needed
