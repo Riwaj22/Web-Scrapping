@@ -4,7 +4,7 @@ Project1: Scrapping Multiple webpages from a website
 
 Description: Website used for scrapping is audible.com and data such as author name, runtime, book name were scrapped and stored in csv file which then can be used for preparing ml models. 
 
-Webvsite used: www.audible.com/search
+Website used: www.audible.com/search
 
 
 
