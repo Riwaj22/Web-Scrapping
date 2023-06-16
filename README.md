@@ -6,6 +6,7 @@ Description: Website used for scrapping is audible.com and data such as author n
 
 Website used: www.audible.com/search
 
+Project 2: Use of selenium to scrap and capture information from twitter from infinite number of pages allowing to prepare a dataset containing user name and their tweet which can be further processed for applying NLP
 
 
 Libraries Used:
