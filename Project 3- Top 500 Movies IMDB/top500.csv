@@ -1,0 +1,501 @@
+Movie,Runtime (in min),Genre,Rating,Box Office,Director
+The Shawshank Redemption,142,Drama,9.3,$28.34M,Frank Darabont
+The Godfather,175,"Crime, Drama",9.2,$134.97M,Francis Ford Coppola
+The Lord of the Rings: The Return of the King,201,"Action, Adventure, Drama",9,$377.85M,Peter Jackson
+12 Angry Men,96,"Crime, Drama",9,$4.36M,Sidney Lumet
+The Dark Knight,152,"Action, Crime, Drama",9,$534.86M,Christopher Nolan
+The Godfather Part II,202,"Crime, Drama",9,$57.30M,Francis Ford Coppola
+Schindler's List,195,"Biography, Drama, History",9,$96.90M,Steven Spielberg
+Pulp Fiction,154,"Crime, Drama",8.9,$107.93M,Quentin Tarantino
+The Lord of the Rings: The Fellowship of the Ring,178,"Action, Adventure, Drama",8.8,$315.54M,Peter Jackson
+"Il buono, il brutto, il cattivo",161,"Adventure, Western",8.8,$6.10M,Sergio Leone
+Fight Club,139,Drama,8.8,$37.03M,David Fincher
+The Lord of the Rings: The Two Towers,179,"Action, Adventure, Drama",8.8,$342.55M,Peter Jackson
+Forrest Gump,142,"Drama, Romance",8.8,$330.25M,Robert Zemeckis
+Inception,148,"Action, Adventure, Sci-Fi",8.8,$292.58M,Christopher Nolan
+Interstellar,169,"Adventure, Drama, Sci-Fi",8.7,$188.02M,Christopher Nolan
+The Matrix,136,"Action, Sci-Fi",8.7,$171.48M,Lana Wachowski
+GoodFellas,145,"Biography, Crime, Drama",8.7,$46.84M,Martin Scorsese
+Star Wars: Episode V - The Empire Strikes Back,124,"Action, Adventure, Fantasy",8.7,$290.48M,Irvin Kershner
+One Flew Over the Cuckoo's Nest,133,Drama,8.7,$112.00M,Milos Forman
+Terminator 2: Judgment Day,137,"Action, Sci-Fi",8.6,$204.84M,James Cameron
+Saving Private Ryan,169,"Drama, War",8.6,$216.54M,Steven Spielberg
+The Silence of the Lambs,118,"Crime, Drama, Thriller",8.6,$130.74M,Jonathan Demme
+Cidade de Deus,130,"Crime, Drama",8.6,$7.56M,Fernando Meirelles
+The Green Mile,189,"Crime, Drama, Fantasy",8.6,$136.80M,Frank Darabont
+Star Wars,121,"Action, Adventure, Fantasy",8.6,$322.74M,George Lucas
+Se7en,127,"Crime, Drama, Mystery",8.6,$100.13M,David Fincher
+La vita è bella,116,"Comedy, Drama, Romance",8.6,$57.60M,Roberto Benigni
+The Usual Suspects,106,"Crime, Drama, Mystery",8.5,$23.34M,Bryan Singer
+The Pianist,150,"Biography, Drama, Music",8.5,$32.57M,Roman Polanski
+Gladiator,155,"Action, Adventure, Drama",8.5,$187.71M,Ridley Scott
+Once Upon a Time in the West,165,Western,8.5,$5.32M,Sergio Leone
+Psycho,109,"Horror, Mystery, Thriller",8.5,$32.00M,Alfred Hitchcock
+The Prestige,130,"Drama, Mystery, Sci-Fi",8.5,$53.09M,Christopher Nolan
+City Lights,87,"Comedy, Drama, Romance",8.5,$0.02M,Charles Chaplin
+American History X,119,"Crime, Drama",8.5,$6.72M,Tony Kaye
+Modern Times,87,"Comedy, Drama, Romance",8.5,$0.16M,Charles Chaplin
+The Intouchables,112,"Biography, Comedy, Drama",8.5,$13.18M,Olivier Nakache
+The Departed,151,"Crime, Drama, Thriller",8.5,$132.38M,Martin Scorsese
+Alien,117,"Horror, Sci-Fi",8.5,$78.90M,Ridley Scott
+Rear Window,112,"Mystery, Thriller",8.5,$36.76M,Alfred Hitchcock
+Casablanca,102,"Drama, Romance, War",8.5,$1.02M,Michael Curtiz
+The Lion King,88,"Animation, Adventure, Drama",8.5,$422.78M,Roger Allers
+Léon,110,"Action, Crime, Drama",8.5,$19.50M,Luc Besson
+Back to the Future,116,"Adventure, Comedy, Sci-Fi",8.5,$210.61M,Robert Zemeckis
+The Dark Knight Rises,164,"Action, Drama, Thriller",8.4,$448.14M,Christopher Nolan
+Apocalypse Now,147,"Drama, Mystery, War",8.4,$83.47M,Francis Ford Coppola
+The Lives of Others,137,"Drama, Mystery, Thriller",8.4,$11.29M,Florian Henckel von Donnersmarck
+Django Unchained,165,"Drama, Western",8.4,$162.81M,Quentin Tarantino
+Aliens,137,"Action, Adventure, Sci-Fi",8.4,$85.16M,James Cameron
+Raiders of the Lost Ark,115,"Action, Adventure",8.4,$248.16M,Steven Spielberg
+WALL·E,98,"Animation, Adventure, Family",8.4,$223.81M,Andrew Stanton
+The Shining,146,"Drama, Horror",8.4,$44.02M,Stanley Kubrick
+Das Boot,149,"Drama, War",8.4,$11.49M,Wolfgang Petersen
+Memento,113,"Mystery, Thriller",8.4,$25.54M,Christopher Nolan
+Star Wars: Episode VI - Return of the Jedi,131,"Action, Adventure, Fantasy",8.3,$309.13M,Richard Marquand
+The Sting,129,"Comedy, Crime, Drama",8.3,$159.60M,George Roy Hill
+Heat,170,"Action, Crime, Drama",8.3,$67.44M,Michael Mann
+Inglourious Basterds,153,"Adventure, Drama, War",8.3,$120.54M,Quentin Tarantino
+American Beauty,122,Drama,8.3,$130.10M,Sam Mendes
+Eternal Sunshine of the Spotless Mind,108,"Drama, Romance, Sci-Fi",8.3,$34.40M,Michel Gondry
+Scarface,170,"Crime, Drama",8.3,$45.60M,Brian De Palma
+Lawrence of Arabia,218,"Adventure, Biography, Drama",8.3,$44.82M,David Lean
+Vertigo,128,"Mystery, Romance, Thriller",8.3,$3.20M,Alfred Hitchcock
+The Apartment,125,"Comedy, Drama, Romance",8.3,$18.60M,Billy Wilder
+Good Will Hunting,126,"Drama, Romance",8.3,$138.43M,Gus Van Sant
+Reservoir Dogs,99,"Crime, Thriller",8.3,$2.83M,Quentin Tarantino
+A Clockwork Orange,136,"Crime, Sci-Fi",8.3,$6.21M,Stanley Kubrick
+Le fabuleux destin d'Amélie Poulain,122,"Comedy, Romance",8.3,$33.23M,Jean-Pierre Jeunet
+Full Metal Jacket,116,"Drama, War",8.3,$46.36M,Stanley Kubrick
+North by Northwest,136,"Action, Adventure, Mystery",8.3,$13.28M,Alfred Hitchcock
+Citizen Kane,119,"Drama, Mystery",8.3,$1.59M,Orson Welles
+Braveheart,178,"Biography, Drama, History",8.3,$75.60M,Mel Gibson
+Requiem for a Dream,102,Drama,8.3,$3.64M,Darren Aronofsky
+2001: A Space Odyssey,149,"Adventure, Sci-Fi",8.3,$56.95M,Stanley Kubrick
+Singin' in the Rain,103,"Comedy, Musical, Romance",8.3,$8.82M,Stanley Donen
+Der Untergang,156,"Biography, Drama, History",8.2,$5.51M,Oliver Hirschbiegel
+The Elephant Man,124,"Biography, Drama",8.2,"248,704",David Lynch
+Jurassic Park,127,"Action, Adventure, Sci-Fi",8.2,$402.45M,Steven Spielberg
+Batman Begins,140,"Action, Crime, Drama",8.2,$206.85M,Christopher Nolan
+Casino,178,"Crime, Drama",8.2,$42.44M,Martin Scorsese
+The Sixth Sense,107,"Drama, Mystery, Thriller",8.2,$293.51M,M. Night Shyamalan
+Some Like It Hot,121,"Comedy, Music, Romance",8.2,$25.00M,Billy Wilder
+Finding Nemo,100,"Animation, Adventure, Comedy",8.2,$380.84M,Andrew Stanton
+No Country for Old Men,122,"Crime, Drama, Thriller",8.2,$74.28M,Ethan Coen
+The Treasure of the Sierra Madre,126,"Adventure, Drama, Western",8.2,$5.01M,John Huston
+Kill Bill: Vol. 1,111,"Action, Crime, Thriller",8.2,$70.10M,Quentin Tarantino
+V for Vendetta,132,"Action, Drama, Sci-Fi",8.2,$70.51M,James McTeigue
+The Truman Show,103,"Comedy, Drama",8.2,$125.62M,Peter Weir
+Monty Python and the Holy Grail,91,"Adventure, Comedy, Fantasy",8.2,$1.23M,Terry Gilliam
+Shutter Island,138,"Mystery, Thriller",8.2,$128.01M,Martin Scorsese
+L.A. Confidential,138,"Crime, Drama, Mystery",8.2,$64.62M,Curtis Hanson
+There Will Be Blood,158,Drama,8.2,$40.22M,Paul Thomas Anderson
+Gone with the Wind,238,"Drama, Romance, War",8.2,$198.68M,Victor Fleming
+The Thing,109,"Horror, Mystery, Sci-Fi",8.2,$13.78M,John Carpenter
+Die Hard,132,"Action, Thriller",8.2,$83.01M,John McTiernan
+Chinatown,130,"Drama, Mystery, Thriller",8.2,$8.49M,Roman Polanski
+Pan's Labyrinth,118,"Drama, Fantasy, War",8.2,$37.63M,Guillermo del Toro
+Taxi Driver,114,"Crime, Drama",8.2,$28.26M,Martin Scorsese
+Snatch,104,"Comedy, Crime",8.2,$30.33M,Guy Ritchie
+Indiana Jones and the Last Crusade,127,"Action, Adventure",8.2,$197.17M,Steven Spielberg
+El secreto de sus ojos,129,"Drama, Mystery, Romance",8.2,$6.39M,Juan José Campanella
+The Great Escape,172,"Adventure, Drama, History",8.2,$12.10M,John Sturges
+A Beautiful Mind,135,"Biography, Drama",8.2,$170.74M,Ron Howard
+Rocky,120,"Drama, Sport",8.1,$117.24M,John G. Avildsen
+Ben-Hur,212,"Adventure, Drama",8.1,$74.70M,William Wyler
+The Wizard of Oz,102,"Adventure, Family, Fantasy",8.1,$2.08M,Victor Fleming
+The Big Lebowski,117,"Comedy, Crime",8.1,$17.50M,Joel Coen
+Million Dollar Baby,132,"Drama, Sport",8.1,$100.49M,Clint Eastwood
+Jaws,124,"Adventure, Mystery, Thriller",8.1,$260.00M,Steven Spielberg
+Dead Poets Society,128,"Comedy, Drama",8.1,$95.86M,Peter Weir
+Gran Torino,116,Drama,8.1,$148.10M,Clint Eastwood
+Amores perros,154,"Drama, Thriller",8.1,$5.38M,Alejandro G. Iñárritu
+The Terminator,107,"Action, Sci-Fi",8.1,$38.40M,James Cameron
+Platoon,120,"Drama, War",8.1,$138.53M,Oliver Stone
+Stand by Me,89,"Adventure, Drama",8.1,$52.29M,Rob Reiner
+Raging Bull,129,"Biography, Drama, Sport",8.1,$23.38M,Martin Scorsese
+The Exorcist,122,Horror,8.1,$232.91M,William Friedkin
+Catch Me If You Can,141,"Biography, Crime, Drama",8.1,$164.62M,Steven Spielberg
+"Lock, Stock and Two Smoking Barrels",107,"Action, Comedy, Crime",8.1,$3.90M,Guy Ritchie
+The Deer Hunter,183,"Drama, War",8.1,$48.98M,Michael Cimino
+Ratatouille,111,"Animation, Adventure, Comedy",8.1,$206.45M,Brad Bird
+Cool Hand Luke,127,"Crime, Drama",8.1,$16.22M,Stuart Rosenberg
+"Monsters, Inc.",92,"Animation, Adventure, Comedy",8.1,$289.92M,Pete Docter
+Blade Runner,117,"Action, Drama, Sci-Fi",8.1,$32.87M,Ridley Scott
+12 Years a Slave,134,"Biography, Drama, History",8.1,$56.67M,Steve McQueen
+Mad Max: Fury Road,120,"Action, Adventure, Sci-Fi",8.1,$154.06M,George Miller
+Prisoners,153,"Crime, Drama, Mystery",8.1,$61.00M,Denis Villeneuve
+The Bridge on the River Kwai,161,"Adventure, Drama, War",8.1,$44.91M,David Lean
+Hotel Rwanda,121,"Biography, Drama, History",8.1,$23.53M,Terry George
+The Third Man,104,"Film-Noir, Mystery, Thriller",8.1,$0.45M,Carol Reed
+Pirates of the Caribbean: The Curse of the Black Pearl,143,"Action, Adventure, Fantasy",8.1,$305.41M,Gore Verbinski
+Trainspotting,93,Drama,8.1,$16.50M,Danny Boyle
+Fargo,98,"Crime, Thriller",8.1,$24.61M,Joel Coen
+Magnolia,188,Drama,8,$22.46M,Paul Thomas Anderson
+Mar adentro,126,"Biography, Drama",8,$2.09M,Alejandro Amenábar
+Casino Royale,144,"Action, Adventure, Thriller",8,$167.45M,Martin Campbell
+The King's Speech,118,"Biography, Drama, History",8,$138.80M,Tom Hooper
+Twelve Monkeys,129,"Mystery, Sci-Fi, Thriller",8,$57.14M,Terry Gilliam
+Dogville,178,"Crime, Drama",8,$1.53M,Lars von Trier
+Black Swan,108,"Drama, Thriller",8,$106.95M,Darren Aronofsky
+Scent of a Woman,156,Drama,8,$63.90M,Martin Brest
+Rain Man,133,Drama,8,$178.80M,Barry Levinson
+Donnie Darko,113,"Drama, Mystery, Sci-Fi",8,$1.48M,Richard Kelly
+Rosemary's Baby,137,"Drama, Horror",8,"224,252",Roman Polanski
+Big Fish,125,"Adventure, Drama, Fantasy",8,$66.26M,Tim Burton
+Papillon,151,"Biography, Crime, Drama",8,$53.27M,Franklin J. Schaffner
+Kill Bill: Vol. 2,137,"Action, Crime, Thriller",8,$66.21M,Quentin Tarantino
+The Bourne Ultimatum,115,"Action, Mystery, Thriller",8,$227.47M,Paul Greengrass
+Rio Bravo,141,"Drama, Western",8,$12.54M,Howard Hawks
+Who's Afraid of Virginia Woolf?,131,Drama,8,"77,667",Mike Nichols
+81⁄2,138,"Biography, Drama",8,$0.05M,Federico Fellini
+Sin City,124,"Crime, Thriller",8,$74.10M,Frank Miller
+Blood Diamond,143,"Adventure, Drama, Thriller",8,$57.37M,Edward Zwick
+Slumdog Millionaire,120,"Crime, Drama, Romance",8,$141.32M,Danny Boyle
+Groundhog Day,101,"Comedy, Drama, Fantasy",8,$70.91M,Harold Ramis
+JFK,189,"Drama, History, Thriller",8,$70.41M,Oliver Stone
+Dances with Wolves,181,"Adventure, Drama, Western",8,$184.21M,Kevin Costner
+True Romance,119,"Crime, Drama, Romance",7.9,$12.28M,Tony Scott
+Wo hu cang long,120,"Action, Adventure, Drama",7.9,$128.08M,Ang Lee
+All the President's Men,138,"Drama, History, Thriller",7.9,$70.60M,Alan J. Pakula
+Carlito's Way,144,"Crime, Drama, Thriller",7.9,$36.95M,Brian De Palma
+The Wrestler,109,"Drama, Sport, Thriller",7.9,$26.24M,Darren Aronofsky
+Cat on a Hot Tin Roof,108,Drama,7.9,$17.57M,Richard Brooks
+Shaun of the Dead,99,"Comedy, Horror",7.9,$13.54M,Edgar Wright
+The Bourne Identity,119,"Action, Mystery, Thriller",7.9,$121.66M,Doug Liman
+Iron Man,126,"Action, Adventure, Sci-Fi",7.9,$318.41M,Jon Favreau
+The Artist,100,"Comedy, Drama, Romance",7.9,$44.67M,Michel Hazanavicius
+Dancer in the Dark,140,"Crime, Drama, Musical",7.9,$4.18M,Lars von Trier
+E.T. the Extra-Terrestrial,115,"Adventure, Family, Sci-Fi",7.9,$435.11M,Steven Spielberg
+Mulholland Dr.,147,"Drama, Mystery, Thriller",7.9,$7.22M,David Lynch
+The Blues Brothers,133,"Action, Adventure, Comedy",7.9,$57.23M,John Landis
+Spartacus,197,"Adventure, Biography, Drama",7.9,$30.00M,Stanley Kubrick
+No Man's Land,98,"Comedy, Drama, War",7.9,$1.06M,Danis Tanovic
+Amour,127,Drama,7.9,$6.74M,Michael Haneke
+The Philadelphia Story,112,"Comedy, Romance",7.9,"71,631",George Cukor
+District 9,112,"Action, Sci-Fi, Thriller",7.9,$115.65M,Neill Blomkamp
+The Big Sleep,114,"Crime, Film-Noir, Mystery",7.9,$6.54M,Howard Hawks
+Strangers on a Train,101,"Crime, Drama, Film-Noir",7.9,$7.63M,Alfred Hitchcock
+Boogie Nights,155,Drama,7.9,$26.40M,Paul Thomas Anderson
+Avatar,162,"Action, Adventure, Fantasy",7.9,$760.51M,James Cameron
+Notorious,102,"Drama, Film-Noir, Romance",7.9,$10.46M,Alfred Hitchcock
+The Nightmare Before Christmas,76,"Animation, Family, Fantasy",7.9,$75.08M,Henry Selick
+X-Men: Days of Future Past,132,"Action, Adventure, Sci-Fi",7.9,$233.92M,Bryan Singer
+Titanic,194,"Drama, Romance",7.9,$659.33M,James Cameron
+Mystic River,138,"Crime, Drama, Mystery",7.9,$90.14M,Clint Eastwood
+Edward Scissorhands,105,"Drama, Fantasy, Romance",7.9,$56.36M,Tim Burton
+Shrek,90,"Animation, Adventure, Comedy",7.9,$267.67M,Andrew Adamson
+Hable con ella,112,"Drama, Mystery, Romance",7.9,$9.36M,Pedro Almodóvar
+Children of Men,109,"Action, Drama, Sci-Fi",7.9,$35.55M,Alfonso Cuarón
+Life of Pi,127,"Adventure, Drama, Fantasy",7.9,$124.99M,Ang Lee
+The Curious Case of Benjamin Button,166,"Drama, Fantasy, Romance",7.8,$127.51M,David Fincher
+Drive,100,"Action, Drama",7.8,$35.06M,Nicolas Winding Refn
+The Untouchables,119,"Crime, Drama, Thriller",7.8,$76.27M,Brian De Palma
+Skyfall,143,"Action, Adventure, Thriller",7.8,$304.36M,Sam Mendes
+East of Eden,118,Drama,7.8,"47,280",Elia Kazan
+Les choristes,97,"Comedy, Drama, Music",7.8,$3.64M,Christophe Barratier
+The Innocents,100,Horror,7.8,$2.62M,Jack Clayton
+Cast Away,143,"Adventure, Drama, Romance",7.8,$233.63M,Robert Zemeckis
+Predator,107,"Action, Adventure, Horror",7.8,$59.74M,John McTiernan
+Star Wars: Episode VII - The Force Awakens,138,"Action, Adventure, Sci-Fi",7.8,$936.66M,J.J. Abrams
+Lilja 4-ever,109,"Crime, Drama",7.8,$0.18M,Lukas Moodysson
+Changeling,141,"Biography, Crime, Drama",7.8,$35.74M,Clint Eastwood
+Misery,107,"Drama, Thriller",7.8,$61.28M,Rob Reiner
+The Insider,157,"Biography, Drama, Thriller",7.8,$28.97M,Michael Mann
+Captain Phillips,134,"Action, Biography, Crime",7.8,$107.10M,Paul Greengrass
+To Have and Have Not,100,"Adventure, Comedy, Film-Noir",7.8,"36,620",Howard Hawks
+Walk the Line,136,"Biography, Drama, Music",7.8,$119.52M,James Mangold
+My Fair Lady,170,"Drama, Family, Musical",7.8,$72.00M,George Cukor
+The Hobbit: The Desolation of Smaug,161,Fantasy,7.8,$258.37M,Peter Jackson
+American Gangster,157,"Biography, Crime, Drama",7.8,$130.16M,Ridley Scott
+Back to the Future Part II,108,"Adventure, Comedy, Sci-Fi",7.8,$118.50M,Robert Zemeckis
+The Social Network,120,"Biography, Drama",7.8,$96.96M,David Fincher
+Ghostbusters,105,"Action, Comedy, Fantasy",7.8,$238.63M,Ivan Reitman
+Taken,90,"Action, Crime, Thriller",7.8,$145.00M,Pierre Morel
+Todo sobre mi madre,101,Drama,7.8,$8.26M,Pedro Almodóvar
+Ang-ma-reul bo-at-da,144,"Action, Crime, Thriller",7.8,$0.13M,Jee-woon Kim
+Dawn of the Dead,127,"Horror, Thriller",7.8,$5.10M,George A. Romero
+Män som hatar kvinnor,152,"Crime, Drama, Mystery",7.8,$10.10M,Niels Arden Oplev
+"They Shoot Horses, Don't They?",129,Drama,7.8,$12.60M,Sydney Pollack
+The Fugitive,130,"Action, Crime, Drama",7.8,$183.88M,Andrew Davis
+Little Miss Sunshine,101,"Comedy, Drama",7.8,$59.89M,Jonathan Dayton
+Ed Wood,127,"Biography, Comedy, Drama",7.8,$5.89M,Tim Burton
+Kramer vs. Kramer,105,Drama,7.8,$106.26M,Robert Benton
+The Hobbit: An Unexpected Journey,169,"Adventure, Fantasy",7.8,$303.00M,Peter Jackson
+Training Day,122,"Action, Crime, Drama",7.7,$76.63M,Antoine Fuqua
+The Machinist,101,"Drama, Thriller",7.7,$1.08M,Brad Anderson
+Man on Fire,146,"Action, Crime, Drama",7.7,$77.91M,Tony Scott
+Crash,112,"Crime, Drama, Thriller",7.7,$54.58M,Paul Haggis
+Lucky Number Slevin,110,"Crime, Drama, Thriller",7.7,$22.49M,Paul McGuigan
+Das Experiment,120,"Drama, Thriller",7.7,$0.14M,Oliver Hirschbiegel
+Donnie Brasco,127,"Biography, Crime, Drama",7.7,$41.91M,Mike Newell
+The Hangover,100,Comedy,7.7,$277.32M,Todd Phillips
+Diarios de motocicleta,126,"Adventure, Biography, Drama",7.7,$16.78M,Walter Salles
+Ocean's Eleven,116,"Crime, Thriller",7.7,$183.42M,Steven Soderbergh
+The Caine Mutiny,124,"Drama, War",7.7,$21.75M,Edward Dmytryk
+Nebraska,115,Drama,7.7,$17.65M,Alexander Payne
+The Bourne Supremacy,108,"Action, Mystery, Thriller",7.7,$176.24M,Paul Greengrass
+The Dirty Dozen,150,"Action, Adventure, War",7.7,$45.30M,Robert Aldrich
+Evil Dead II,84,"Comedy, Horror",7.7,$5.92M,Sam Raimi
+Airplane!,88,Comedy,7.7,$83.40M,Jim Abrahams
+Gravity,91,"Drama, Sci-Fi, Thriller",7.7,$274.09M,Alfonso Cuarón
+The Game,129,"Drama, Mystery, Thriller",7.7,$48.32M,David Fincher
+Dirty Harry,102,"Action, Crime, Thriller",7.7,$35.90M,Don Siegel
+Road to Perdition,117,"Crime, Drama, Thriller",7.7,$104.45M,Sam Mendes
+Goldfinger,110,"Action, Adventure, Thriller",7.7,$51.08M,Guy Hamilton
+Brokeback Mountain,134,"Drama, Romance",7.7,$83.04M,Ang Lee
+Argo,120,"Biography, Drama, Thriller",7.7,$136.03M,Ben Affleck
+What's Eating Gilbert Grape,118,Drama,7.7,$9.17M,Lasse Hallström
+"O Brother, Where Art Thou?",107,"Adventure, Comedy, Crime",7.7,$45.51M,Joel Coen
+Lost in Translation,102,"Comedy, Drama",7.7,$44.59M,Sofia Coppola
+Happiness,134,"Comedy, Drama",7.7,$2.81M,Todd Solondz
+Black Hawk Down,144,"Action, Drama, History",7.7,$108.64M,Ridley Scott
+As Good as It Gets,139,"Comedy, Drama, Romance",7.7,$148.48M,James L. Brooks
+Deliverance,109,"Adventure, Drama, Thriller",7.7,$7.06M,John Boorman
+Halloween,91,"Horror, Thriller",7.7,$47.00M,John Carpenter
+Billy Elliot,110,"Drama, Music",7.7,$22.00M,Stephen Daldry
+Zodiac,157,"Crime, Drama, Mystery",7.7,$33.08M,David Fincher
+First Blood,93,"Action, Adventure, Thriller",7.7,$47.21M,Ted Kotcheff
+When Harry Met Sally...,95,"Comedy, Drama, Romance",7.7,$92.82M,Rob Reiner
+Home Alone,103,"Comedy, Family",7.7,$285.76M,Chris Columbus
+Blue Velvet,120,"Crime, Drama, Mystery",7.7,$8.55M,David Lynch
+Being John Malkovich,113,"Comedy, Drama, Fantasy",7.7,$22.86M,Spike Jonze
+Saw,103,"Horror, Mystery, Thriller",7.6,$56.00M,James Wan
+The Fifth Element,126,"Action, Adventure, Sci-Fi",7.6,$63.54M,Luc Besson
+Un long dimanche de fiançailles,133,"Drama, Mystery, Romance",7.6,$6.17M,Jean-Pierre Jeunet
+Match Point,124,"Drama, Romance, Thriller",7.6,$23.09M,Woody Allen
+The Bridges of Madison County,135,"Drama, Romance",7.6,$71.52M,Clint Eastwood
+The Birds,119,"Drama, Horror, Mystery",7.6,$11.40M,Alfred Hitchcock
+The Others,101,"Horror, Mystery, Thriller",7.6,$96.52M,Alejandro Amenábar
+Star Wars: Episode III - Revenge of the Sith,140,"Action, Adventure, Fantasy",7.6,$380.26M,George Lucas
+21 Grams,124,"Crime, Drama, Thriller",7.6,$16.29M,Alejandro G. Iñárritu
+Lethal Weapon,109,"Action, Crime, Thriller",7.6,$65.21M,Richard Donner
+The Thin Red Line,170,"Drama, History, War",7.6,$36.40M,Terrence Malick
+The Godfather Part III,162,"Crime, Drama",7.6,$66.67M,Francis Ford Coppola
+Sabrina,113,"Comedy, Drama, Romance",7.6,"67,702",Billy Wilder
+The Visitor,104,Drama,7.6,$9.42M,Tom McCarthy
+RoboCop,102,"Action, Crime, Sci-Fi",7.6,$53.42M,Paul Verhoeven
+The Incredible Shrinking Man,81,"Horror, Sci-Fi",7.6,"18,968",Jack Arnold
+Duel,90,"Action, Thriller",7.6,"74,486",Steven Spielberg
+La piel que habito,120,"Drama, Horror, Mystery",7.6,$3.19M,Pedro Almodóvar
+Moulin Rouge!,127,"Drama, Musical, Romance",7.6,$57.39M,Baz Luhrmann
+Minority Report,145,"Action, Crime, Mystery",7.6,$132.07M,Steven Spielberg
+The Royal Tenenbaums,110,"Comedy, Drama",7.6,$52.36M,Wes Anderson
+Love Actually,135,"Comedy, Drama, Romance",7.6,$59.70M,Richard Curtis
+Die Hard with a Vengeance,128,"Action, Adventure, Thriller",7.6,$100.01M,John McTiernan
+Eastern Promises,100,"Crime, Drama, Thriller",7.6,$17.11M,David Cronenberg
+The Station Agent,89,"Comedy, Drama",7.6,$5.74M,Tom McCarthy
+Watchmen,162,"Action, Drama, Mystery",7.6,$107.51M,Zack Snyder
+Vera Drake,125,"Crime, Drama",7.6,$3.75M,Mike Leigh
+Despicable Me,95,"Animation, Adventure, Comedy",7.6,$251.51M,Pierre Coffin
+Inside Man,129,"Crime, Drama, Mystery",7.6,$88.51M,Spike Lee
+Zombieland,88,"Action, Comedy, Horror",7.6,$75.59M,Ruben Fleischer
+Lost Highway,134,"Mystery, Thriller",7.6,$3.80M,David Lynch
+The Reader,124,"Drama, Romance",7.6,$34.19M,Stephen Daldry
+300,117,"Action, Drama",7.6,$210.61M,Zack Snyder
+American Psycho,102,"Crime, Drama, Horror",7.6,$15.07M,Mary Harron
+Sherlock Holmes,128,"Action, Adventure, Mystery",7.6,$209.03M,Guy Ritchie
+Lord of War,122,"Crime, Drama",7.6,$24.15M,Andrew Niccol
+Traffic,147,"Crime, Drama, Thriller",7.6,$124.12M,Steven Soderbergh
+Falling Down,113,"Action, Crime, Drama",7.6,$40.90M,Joel Schumacher
+Mysterious Skin,105,Drama,7.6,$0.70M,Gregg Araki
+The Hunger Games: Catching Fire,146,"Action, Adventure, Sci-Fi",7.5,$424.67M,Francis Lawrence
+The Life of David Gale,130,"Crime, Drama, Thriller",7.5,$19.59M,Alan Parker
+Sideways,127,"Comedy, Drama, Romance",7.5,$71.50M,Alexander Payne
+Babel,143,Drama,7.5,$34.30M,Alejandro G. Iñárritu
+Gangs of New York,167,"Crime, Drama",7.5,$77.81M,Martin Scorsese
+The Hurt Locker,131,"Drama, Thriller, War",7.5,$17.02M,Kathryn Bigelow
+Jackie Brown,154,"Crime, Drama, Thriller",7.5,$39.67M,Quentin Tarantino
+Collateral,120,"Action, Crime, Drama",7.5,$101.01M,Michael Mann
+Sleepers,147,"Crime, Drama, Thriller",7.5,$49.10M,Barry Levinson
+The Aviator,170,"Biography, Drama",7.5,$102.61M,Martin Scorsese
+Ne le dis à personne,131,"Crime, Drama, Mystery",7.5,$6.18M,Guillaume Canet
+Midnight Run,126,"Action, Comedy, Crime",7.5,$38.41M,Martin Brest
+Ice Age,81,"Animation, Adventure, Comedy",7.5,$176.39M,Chris Wedge
+Milk,128,"Biography, Drama, History",7.5,$31.84M,Gus Van Sant
+The Piano,121,"Drama, Music, Romance",7.5,$40.16M,Jane Campion
+Thelma & Louise,130,"Adventure, Crime, Drama",7.5,$45.36M,Ridley Scott
+Fear and Loathing in Las Vegas,118,"Adventure, Comedy, Drama",7.5,$10.68M,Terry Gilliam
+The Illusionist,110,"Drama, Fantasy, Mystery",7.5,$39.87M,Neil Burger
+127 Hours,94,"Biography, Drama",7.5,$18.34M,Danny Boyle
+The Last Detail,104,"Comedy, Drama",7.5,$3.19M,Hal Ashby
+Leaving Las Vegas,111,"Drama, Romance",7.5,$31.97M,Mike Figgis
+Fucking Åmål,89,"Comedy, Drama, Romance",7.5,$0.17M,Lukas Moodysson
+The Abyss,140,"Adventure, Drama, Mystery",7.5,$54.46M,James Cameron
+Total Recall,113,"Action, Adventure, Sci-Fi",7.5,$119.39M,Paul Verhoeven
+A Single Man,99,"Crime, Drama, Romance",7.5,$9.17M,Tom Ford
+The Crow,102,"Action, Crime, Drama",7.5,$50.69M,Alex Proyas
+Dark Passage,106,"Film-Noir, Thriller",7.5,"21,065",Delmer Daves
+A Fish Called Wanda,108,"Comedy, Crime",7.5,$63.49M,Charles Crichton
+Boys Don't Cry,118,"Biography, Crime, Drama",7.5,$11.53M,Kimberly Peirce
+Thank You for Smoking,92,"Comedy, Drama",7.5,$24.79M,Jason Reitman
+The Conjuring,112,"Horror, Mystery, Thriller",7.5,$137.40M,James Wan
+Sophie's Choice,150,"Drama, Romance",7.5,$30.04M,Alan J. Pakula
+Les Misérables,158,"Drama, Musical, Romance",7.5,$148.81M,Tom Hooper
+The Hours,110,"Drama, Romance",7.5,$41.68M,Stephen Daldry
+The Man Who Wasn't There,116,"Crime, Drama",7.5,$7.49M,Joel Coen
+Braindead,104,"Comedy, Fantasy, Horror",7.5,$0.24M,Peter Jackson
+Perfume: The Story of a Murderer,147,"Crime, Drama, Fantasy",7.5,$2.22M,Tom Tykwer
+The Evil Dead,85,Horror,7.4,$2.40M,Sam Raimi
+Army of Darkness,81,"Comedy, Horror",7.4,$11.50M,Sam Raimi
+Witness,112,"Drama, Romance, Thriller",7.4,$68.71M,Peter Weir
+High Fidelity,113,"Comedy, Drama, Music",7.4,$27.29M,Stephen Frears
+Zero Dark Thirty,157,"Drama, History, Thriller",7.4,$95.72M,Kathryn Bigelow
+Carrie,98,"Horror, Mystery",7.4,$33.80M,Brian De Palma
+Frequency,118,"Crime, Drama, Mystery",7.4,$45.01M,Gregory Hoblit
+Frozen,102,"Animation, Adventure, Comedy",7.4,$400.74M,Chris Buck
+Biutiful,148,"Drama, Romance",7.4,$5.10M,Alejandro G. Iñárritu
+La mala educación,106,"Crime, Drama",7.4,$5.21M,Pedro Almodóvar
+Man on the Moon,118,"Biography, Comedy, Drama",7.4,$34.58M,Milos Forman
+Tootsie,116,"Comedy, Drama, Romance",7.4,$177.20M,Sydney Pollack
+Erin Brockovich,131,"Biography, Drama",7.4,$125.60M,Steven Soderbergh
+Mission: Impossible - Rogue Nation,131,"Action, Adventure, Thriller",7.4,$195.04M,Christopher McQuarrie
+The Texas Chain Saw Massacre,83,Horror,7.4,$30.86M,Tobe Hooper
+Tillsammans,106,"Comedy, Drama, Romance",7.4,$1.07M,Lukas Moodysson
+Garden State,102,"Comedy, Drama, Romance",7.4,$26.78M,Zach Braff
+The Hobbit: The Battle of the Five Armies,144,"Adventure, Fantasy",7.4,$255.12M,Peter Jackson
+Transamerica,103,"Adventure, Comedy, Drama",7.4,$9.02M,Duncan Tucker
+El orfanato,105,"Drama, Horror, Mystery",7.4,$7.16M,J.A. Bayona
+The Talented Mr. Ripley,139,"Crime, Drama, Thriller",7.4,$81.30M,Anthony Minghella
+An Affair to Remember,115,"Drama, Romance",7.4,"31,778",Leo McCarey
+Maria Full of Grace,101,"Crime, Drama",7.4,$6.52M,Joshua Marston
+In the Bedroom,131,"Crime, Drama",7.4,$35.93M,Todd Field
+Marathon Man,125,"Crime, Drama, Thriller",7.4,$21.71M,John Schlesinger
+Looper,119,"Action, Drama, Sci-Fi",7.4,$66.49M,Rian Johnson
+Mission: Impossible - Ghost Protocol,132,"Action, Adventure, Thriller",7.4,$209.40M,Brad Bird
+Spider-Man 2,127,"Action, Adventure, Sci-Fi",7.4,$373.59M,Sam Raimi
+The English Patient,162,"Drama, Romance, War",7.4,$78.65M,Anthony Minghella
+The Cider House Rules,126,"Drama, Romance",7.4,$57.55M,Lasse Hallström
+A Nightmare on Elm Street,91,Horror,7.4,$25.50M,Wes Craven
+Scream,111,"Horror, Mystery",7.4,$103.05M,Wes Craven
+A History of Violence,96,"Action, Crime, Drama",7.4,$31.49M,David Cronenberg
+Pirates of the Caribbean: Dead Man's Chest,151,"Action, Adventure, Fantasy",7.3,$423.32M,Gore Verbinski
+Speed,116,"Action, Adventure, Thriller",7.3,$121.25M,Jan de Bont
+Face/Off,138,"Action, Crime, Sci-Fi",7.3,$112.23M,John Woo
+Sleepy Hollow,105,"Fantasy, Horror, Mystery",7.3,$101.07M,Tim Burton
+Sweeney Todd: The Demon Barber of Fleet Street,116,"Drama, Horror, Musical",7.3,$52.90M,Tim Burton
+X-Men,104,"Action, Adventure, Sci-Fi",7.3,$157.30M,Bryan Singer
+Easy Rider,95,"Adventure, Drama",7.3,$41.73M,Dennis Hopper
+From Russia with Love,115,"Action, Adventure, Thriller",7.3,$24.80M,Terence Young
+"Good Morning, Vietnam",121,"Biography, Comedy, Drama",7.3,$123.92M,Barry Levinson
+Corpse Bride,77,"Animation, Drama, Family",7.3,$53.36M,Tim Burton
+Get Carter,112,"Action, Crime, Thriller",7.3,$0.39M,Mike Hodges
+Memoirs of a Geisha,145,"Drama, Romance",7.3,$57.49M,Rob Marshall
+Beverly Hills Cop,105,"Action, Comedy, Crime",7.3,$234.76M,Martin Brest
+Chocolat,121,"Drama, Romance",7.3,$71.51M,Lasse Hallström
+Cape Fear,128,"Crime, Thriller",7.3,$79.10M,Martin Scorsese
+Unbreakable,106,"Drama, Mystery, Sci-Fi",7.3,$95.01M,M. Night Shyamalan
+Irréversible,97,"Crime, Drama, Mystery",7.3,$0.75M,Gaspar Noé
+Lincoln,150,"Biography, Drama, History",7.3,$182.21M,Steven Spielberg
+13 Tzameti,93,"Crime, Drama, Thriller",7.3,$0.12M,Géla Babluani
+Enemy of the State,132,"Action, Thriller",7.3,$111.55M,Tony Scott
+"Girl, Interrupted",127,"Biography, Drama",7.3,$28.87M,James Mangold
+Fracture,113,"Crime, Drama, Thriller",7.2,$39.02M,Gregory Hoblit
+Closer,104,"Drama, Romance",7.2,$33.99M,Mike Nichols
+King Kong,187,"Action, Adventure, Romance",7.2,$218.08M,Peter Jackson
+The Darjeeling Limited,91,"Adventure, Comedy, Drama",7.2,$11.90M,Wes Anderson
+I Am Legend,101,"Action, Drama, Horror",7.2,$256.39M,Francis Lawrence
+Lethal Weapon 2,114,"Action, Crime, Thriller",7.2,$147.25M,Richard Donner
+The Descent,99,"Adventure, Horror, Thriller",7.2,$26.02M,Neil Marshall
+Wonder Boys,107,"Comedy, Drama",7.2,$19.39M,Curtis Hanson
+Born on the Fourth of July,145,"Biography, Drama, War",7.2,$70.00M,Oliver Stone
+The Hunger Games,142,"Action, Adventure, Sci-Fi",7.2,$408.01M,Gary Ross
+They Live,94,"Action, Horror, Sci-Fi",7.2,$13.01M,John Carpenter
+Sunshine,107,"Sci-Fi, Thriller",7.2,$3.68M,Danny Boyle
+Chicago,113,"Comedy, Crime, Musical",7.2,$170.69M,Rob Marshall
+La Cage aux folles,97,Comedy,7.2,$20.42M,Édouard Molinaro
+Broken Flowers,106,"Comedy, Drama, Mystery",7.2,$13.74M,Jim Jarmusch
+GoldenEye,130,"Action, Adventure, Thriller",7.2,$106.60M,Martin Campbell
+The Bank Job,111,"Crime, Drama, Thriller",7.2,$30.06M,Roger Donaldson
+Insomnia,118,"Drama, Mystery, Thriller",7.2,$67.36M,Christopher Nolan
+Harry Brown,103,"Action, Crime, Drama",7.2,$1.82M,Daniel Barber
+The Ghost Writer,128,"Crime, Drama, Mystery",7.2,$15.54M,Roman Polanski
+About Schmidt,125,Drama,7.2,$65.02M,Alexander Payne
+The Virgin Suicides,97,"Drama, Romance",7.2,$4.86M,Sofia Coppola
+Avanti!,144,"Comedy, Romance",7.2,$3.30M,Billy Wilder
+A.I. Artificial Intelligence,146,"Drama, Sci-Fi",7.2,$78.62M,Steven Spielberg
+Deja Vu,126,"Action, Crime, Sci-Fi",7.1,$64.04M,Tony Scott
+Valkyrie,121,"Drama, History, Thriller",7.1,$83.08M,Bryan Singer
+Alive,128,"Adventure, Biography, Drama",7.1,$36.73M,Frank Marshall
+The Accused,111,"Crime, Drama",7.1,$32.07M,Jonathan Kaplan
+Pour elle,96,"Crime, Drama, Thriller",7.1,"9,539",Fred Cavayé
+In the Mouth of Madness,95,"Drama, Fantasy, Horror",7.1,$8.95M,John Carpenter
+Mrs. Doubtfire,125,"Comedy, Drama",7.1,$219.20M,Chris Columbus
+Planet Terror,105,"Action, Comedy, Horror",7.1,"217,328",Robert Rodriguez
+Pirates of the Caribbean: At World's End,169,"Action, Adventure, Fantasy",7.1,$309.42M,Gore Verbinski
+Die Hard 2,124,"Action, Thriller",7.1,$117.54M,Renny Harlin
+Cube,90,"Horror, Mystery, Sci-Fi",7.1,$0.50M,Vincenzo Natali
+Metallica Through the Never,93,Music,7.1,$3.42M,Nimród Antal
+Phone Booth,81,"Crime, Thriller",7.1,$46.57M,Joel Schumacher
+Monster's Ball,111,"Drama, Romance",7.1,$31.27M,Marc Forster
+Mission: Impossible,110,"Action, Adventure, Thriller",7.1,$180.98M,Brian De Palma
+The Spy Who Loved Me,125,"Action, Adventure, Thriller",7,$46.80M,Lewis Gilbert
+Hundraåringen som klev ut genom fönstret och försvann,114,"Adventure, Comedy",7,$1.08M,Felix Herngren
+Prometheus,124,"Adventure, Mystery, Sci-Fi",7,$126.48M,Ridley Scott
+Breakdown,93,"Crime, Drama, Mystery",7,$50.13M,Jonathan Mostow
+Spy Game,126,"Action, Crime, Thriller",7,$0.03M,Tony Scott
+Martyrs,99,Horror,7,"100,269",Pascal Laugier
+Death Proof,127,"Action, Thriller",7,"301,895",Quentin Tarantino
+Tinker Tailor Soldier Spy,127,"Drama, Mystery, Thriller",7,$24.15M,Tomas Alfredson
+The Quiet American,101,"Drama, Romance, Thriller",7,$12.99M,Phillip Noyce
+Hard Candy,104,"Drama, Thriller",7,$1.01M,David Slade
+Out of Sight,123,"Comedy, Crime, Drama",7,$37.56M,Steven Soderbergh
+Oblivion,124,"Action, Adventure, Sci-Fi",7,$89.02M,Joseph Kosinski
+Hors de prix,106,"Comedy, Romance",7,$1.50M,Pierre Salvadori
+Basic Instinct,127,"Drama, Mystery, Thriller",7,$117.73M,Paul Verhoeven
+Trance,101,"Crime, Drama, Mystery",6.9,$2.32M,Danny Boyle
+Ultimo tango a Parigi,129,"Drama, Romance",6.9,$36.14M,Bernardo Bertolucci
+Non-Stop,106,"Action, Mystery, Thriller",6.9,$92.17M,Jaume Collet-Serra
+Fatal Attraction,119,"Drama, Thriller",6.9,$156.65M,Adrian Lyne
+Any Given Sunday,162,"Drama, Sport",6.9,$75.53M,Oliver Stone
+The Amazing Spider-Man,136,"Action, Adventure, Sci-Fi",6.9,$262.03M,Marc Webb
+Water for Elephants,122,"Drama, Romance",6.9,$58.71M,Francis Lawrence
+Sinister - Entidade do Mal,110,"Horror, Mystery, Thriller",6.8,$48.09M,Scott Derrickson
+The Pledge,124,"Crime, Drama, Mystery",6.8,$19.72M,Sean Penn
+Mad Max,88,"Action, Adventure, Sci-Fi",6.8,$8.75M,George Miller
+Mammoth,125,"Drama, Romance",6.8,$0.01M,Lukas Moodysson
+The Island,136,"Action, Sci-Fi, Thriller",6.8,$35.82M,Michael Bay
+Hellboy,122,"Action, Adventure, Fantasy",6.8,$59.62M,Guillermo del Toro
+The Score,124,"Action, Crime, Drama",6.8,$71.07M,Frank Oz
+Exam,101,"Crime, Horror, Mystery",6.8,"120,473",Stuart Hazeldine
+Spectre,148,"Action, Adventure, Thriller",6.8,$200.07M,Sam Mendes
+Dead Calm,96,"Horror, Thriller",6.8,$7.83M,Phillip Noyce
+Insidious,103,"Horror, Mystery, Thriller",6.8,$54.01M,James Wan
+Mielensäpahoittaja,102,"Comedy, Drama",6.7,"2,794",Dome Karukoski
+The Good Shepherd,167,"Drama, History, Thriller",6.7,$59.95M,Robert De Niro
+Under the Tuscan Sun,113,"Comedy, Drama, Romance",6.7,$43.61M,Audrey Wells
+The Horse Whisperer,169,"Drama, Romance, Western",6.7,$75.38M,Robert Redford
+Escape Plan,115,"Action, Thriller",6.7,$25.13M,Mikael Håfström
+Imagine Me & You,90,"Comedy, Drama, Romance",6.7,$0.67M,Ol Parker
+The Hand That Rocks the Cradle,110,"Drama, Thriller",6.7,$88.04M,Curtis Hanson
+Final Destination,98,"Horror, Thriller",6.7,$53.33M,James Wong
+Haute tension,91,Horror,6.7,$3.68M,Alexandre Aja
+Joy Ride,97,"Action, Mystery, Thriller",6.6,$21.97M,John Dahl
+Pirates of the Caribbean: On Stranger Tides,137,"Action, Adventure, Fantasy",6.6,$241.06M,Rob Marshall
+Alceste à bicyclette,104,"Comedy, Drama",6.6,$0.06M,Philippe Le Guay
+What Lies Beneath,130,"Drama, Horror, Mystery",6.6,$155.46M,Robert Zemeckis
+"Me, Myself & Irene",116,Comedy,6.6,$90.57M,Bobby Farrelly
+Cliffhanger,113,"Action, Adventure, Thriller",6.5,$84.05M,Renny Harlin
+The Mechanic,93,"Action, Crime, Thriller",6.5,$29.12M,Simon West
+Marie-Jo et ses 2 amours,124,"Drama, Romance",6.5,814,Robert Guédiguian
+Mamma Mia!,108,"Comedy, Musical, Romance",6.5,$144.13M,Phyllida Lloyd
+Diamonds Are Forever,120,"Action, Adventure, Thriller",6.5,$43.82M,Guy Hamilton
+Heist,109,"Action, Crime, Drama",6.5,$0.05M,David Mamet
+It's Complicated,121,"Comedy, Drama, Romance",6.5,$112.74M,Nancy Meyers
+A Walk Among the Tombstones,114,"Action, Crime, Drama",6.5,$26.31M,Scott Frank
+Last Action Hero,130,"Action, Adventure, Comedy",6.5,$50.02M,John McTiernan
+The Crazies,101,"Horror, Thriller",6.5,$39.12M,Breck Eisner
+Sin City: A Dame to Kill For,102,"Action, Crime, Thriller",6.5,$13.76M,Frank Miller
+Godzilla,123,"Action, Adventure, Sci-Fi",6.4,$200.68M,Gareth Edwards
+Session 9,100,"Drama, Horror, Mystery",6.4,$0.38M,Brad Anderson
+Salt,100,"Action, Thriller",6.4,$118.31M,Phillip Noyce
+"As Above, So Below",93,"Horror, Mystery, Thriller",6.2,$21.20M,John Erick Dowdle
+Sleeping with the Enemy,99,"Drama, Thriller",6.2,$101.60M,Joseph Ruben
+Fear,97,"Drama, Thriller",6.2,$20.75M,James Foley
+Taken 2,92,"Action, Crime, Thriller",6.2,$139.85M,Olivier Megaton
+Miami Vice,132,"Action, Adventure, Crime",6,$63.45M,Michael Mann
+Iron Sky,93,"Action, Adventure, Comedy",5.9,"95,470",Timo Vuorensola
+I Know What You Did Last Summer,101,"Horror, Mystery",5.8,$72.59M,Jim Gillespie
+Eat Pray Love,133,"Biography, Drama, Romance",5.8,$80.57M,Ryan Murphy
+Los amantes pasajeros,90,"Comedy, Musical",5.6,$1.37M,Pedro Almodóvar
