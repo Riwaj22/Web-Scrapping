@@ -15,12 +15,4 @@ Project 3: Use of auto scraper(an automated web scraping tool) which is used to 
 website used: www.imdb.com
 
 
-Libraries Used:
 
-1. Beautiful Soup is a Python library used for parsing HTML and XML documents. It allows you to extract data from web pages by navigating the document's structure. In the context of machine learning (ML), Beautiful Soup can be used for data collection, preprocessing, feature extraction, and labeling/annotation tasks. It helps in scraping web data, cleaning and transforming it, extracting relevant features, and facilitating the manual labeling of data for ML models.
-
-2. Selenium: Selenium is a widely used tool for web scraping, which involves extracting data from websites. It allows for web browser automation, enabling you to interact with web pages, locate specific elements, extract data, navigate through multiple pages, and process the scraped data as needed\
-
-3. Scrapy:  With Scrapy, we can define spiders that specify how to navigate through web pages, follow links, and extract specific information using XPath or CSS selectors. Scrapy offers features such as automatic request throttling, cookie and session handling, concurrent requests, and support for various data storage formats. It provides a command-line interface for managing and running scraping projects, and allows you to process and store the extracted data using item pipelines. Scrapy is scalable, efficient, and offers extensions and integrations to enhance its functionality. It is widely used for scraping websites and extracting data for various purposes.
-
-4. AutoScrapper: An autoscraper for machine learning is a tool or program that automates the process of collecting and extracting data from websites for training machine learning models. It typically involves using web scraping techniques to retrieve data from web pages and transform it into a structured format suitable for machine learning tasks.
