@@ -10,6 +10,9 @@ Project 2: Use of selenium to scrap and capture information from twitter from in
 
 Website used: www.twitter.com
 
+Project 3: Use of auto scraper(an automated web scraping tool) which is used to gather info about top 500 movies from imdb including movie name, director name, genre, rating, box office
+
+website used: www.imdb.com
 
 
 Libraries Used:
